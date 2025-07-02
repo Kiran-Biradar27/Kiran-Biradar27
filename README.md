@@ -4,11 +4,11 @@ Recent Engineering Graduate passionate about Full-Stack Development, Java, and e
 ---
 
 - 🔭 I’m currently working on Full Stack, AI, and Java projects, with keen interest in Software Development domain.  
-- 🌱 Strong foundation in data structures, algorithms, databases, and Software engineering principles.  
+- 🌱 Strong foundation in Data structures, algorithms, databases, and Software engineering principles.  
 - 👯 I’m looking to collaborate on all public projects.  
 - 🏆 Consistently ranked in the top 3 and recognized as branch topper in multiple semesters. 
 - 💬 Looking forward to leveraging my skills in a dynamic tech environment to solve real-world problems and grow professionally.
-
+  
 
 ---
 
