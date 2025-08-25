@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm Kiran S B!
-Recent Engineering Graduate passionate about Full-Stack Development, Java, and emerging AI technologies. Experienced intern with hands-on exposure to the MERN stack, Artificial Intelligence, and Web development projects.
+Recent Information Science and Engineering Graduate passionate about Full-Stack Development, Java, and emerging AI technologies. Experienced intern with hands-on exposure to the MERN stack, Artificial Intelligence,  Web development projects.
 
 ---
 
