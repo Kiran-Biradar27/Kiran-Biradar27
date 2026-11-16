@@ -1,122 +1,85 @@
 # 👋 Hey, I'm Kiran S B!
 
-### `Software Engineer` · `Full-Stack Developer` · `AI/ML Enthusiast`
+### Software Engineer · Full-Stack Developer · AI/ML Enthusiast
 
-**Building at the intersection of software, data, and intelligence.**
+*Building at the intersection of software, data, and intelligent systems.*
 
-I'm an Information Science and Engineering graduate with hands-on experience in building full-stack applications, developing AI-powered solutions, and working with data-driven systems.
+I'm an Information Science & Engineering graduate who enjoys building practical applications, exploring emerging technologies, and solving problems through code. My interests span full-stack development, Data & AI, machine learning, and research.
 
-I enjoy exploring how technology can solve meaningful problems — whether that's engineering an end-to-end application, experimenting with machine learning, or exploring new possibilities in intelligent systems.
+### 💡 What I Do
+- Build end-to-end web applications using modern full-stack technologies.
+- Explore AI/ML, computer vision, NLP, and LLM-powered applications.
+- Work with data, APIs, databases, and interactive visualizations.
+- Experiment, learn, and turn ideas into meaningful projects.
 
-```java
-public class Kiran {
-    String[] interests = {
-        "Software Engineering",
-        "Full-Stack Development",
-        "Data & AI",
-        "Machine Learning",
-        "Research & Innovation"
-    };
+### 💼 Experience
 
-    String mindset = "Build. Learn. Experiment. Repeat.";
-}
-```
+**AI Engineer Intern — ResoluteAI Software**  
+*Jan 2026 – Mar 2026*
+- Developed Python-based ML workflows involving data preprocessing, feature extraction, and model training.
+- Explored computer vision with YOLO and OpenCV, alongside LLMs, RAG, and LangChain.
 
----
+**Software Engineer Intern — Ecera Systems**  
+*Jun 2025 – Dec 2025*
+- Built 5+ full-stack application modules using React, Node.js, Express, and MongoDB.
+- Developed REST APIs, reusable UI components, and integrated frontend and backend functionality.
 
-## ⚡ A Little About Me
+**Associate Developer Intern — Infotact Solutions**  
+*Jan 2025 – May 2025*
+- Co-developed an AI-powered analytics platform featuring Excel data ingestion and interactive dashboards.
+- Integrated Python-based analytics, authentication, real-time updates, and data visualizations.
 
-- 💻 Building applications across the **MERN stack, Java, and Python ecosystem**.
-- 🤖 Exploring **Machine Learning, Generative AI, Computer Vision, and LLMs**.
-- 📊 Interested in **Data Engineering, analytics, and intelligent data-driven solutions**.
-- 🔬 Co-authored a research publication on multilingual AI assistance.
-- 🏆 Won the MongoDB category at **NMIT Hacks 2025**, competing among 2,000+ participants.
-- 🌱 Always learning, experimenting, and looking for opportunities to build something meaningful.
+**Web Developer Intern — Varcons Technologies**
+- Built a VTU SGPA/CGPA Calculator and a JavaScript-based Music Playlist Generator integrating the YouTube Data API.
 
----
+### 🛠️ Tech Stack
 
-## 🧰 My Technical Playground
+**Languages**
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
+![Languages](https://skillicons.dev/icons?i=java,python,js,html,css)
 
-### Full-Stack & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,redux,tailwind" />
-</p>
+**Development**
 
-### Databases & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
-</p>
+![Development](https://skillicons.dev/icons?i=react,nodejs,express,fastapi,redux,tailwind)
 
-### AI, Machine Learning & Data
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
+**Databases & Tools**
 
-**Also exploring:** Generative AI · LLMs · RAG · LangChain · NLP · YOLO · Oracle Analytics Cloud · BI Publisher · Chart.js · D3.js · Three.js
+![Databases and Tools](https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode,githubactions)
 
-### Developer Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,githubactions" />
-</p>
+**AI & Machine Learning**
 
----
+![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)
 
-## 🚀 Things I've Built & Explored
+*Also familiar with:* REST APIs · JWT · OAuth · LLMs · RAG · LangChain · NLP · YOLO · Chart.js · D3.js · Three.js
 
-| Project | What it's about |
-|---|---|
-| **Serenity-Bot** | An AI-powered virtual wellness platform with conversational support and community features |
-| **Polyglot Assistant** | A multilingual AI companion integrating speech recognition, NLP, translation, and text-to-speech |
-| **AI Data Analytics Platform** | An end-to-end analytics platform featuring data ingestion, interactive dashboards, and intelligent insights |
+### 🚀 Featured Projects
 
-*Explore my repositories for more projects, experiments, and code.*
+**Serenity-Bot — AI-Powered Virtual Wellness Platform**
+- Built a full-stack wellness platform using React, Node.js, Express, and MongoDB, integrating Gemini-powered conversations, secure authentication, real-time messaging, and anonymous community features.
+- 🏆 Won the MongoDB category at NMIT Hacks 2025 among 2,000+ teams.
 
----
+**Polyglot Assistant — Multilingual AI Companion**
+- Developed a Python-based AI assistant combining speech recognition, language translation, NLP, and text-to-speech for multilingual voice interactions.
+- 📄 Co-authored research published in IJSET, January 2025.
 
-## 🏅 Milestones & Recognition
+**AI-Powered Data Analytics Platform**
+- Co-developed a MERN-based analytics platform with Excel data ingestion, Python-powered trend prediction and anomaly detection, and interactive 2D/3D dashboards.
 
-- 🥇 **Academic Excellence:** Ranked among the top 3 students, securing Rank 1 across multiple semesters.
-- 🏆 **NMIT Hacks 2025:** Winner in the MongoDB category among 2,000+ participants.
-- 📄 **Research Publication:** Co-authored *Polyglot Assistant*, published in IJSET, January 2025.
-- 🎓 **Technical Excellence:** Strong performance in academic projects, research evaluations, and technical assessments.
+**Smart Attendance System — Face Recognition**
+- Explored computer vision and facial recognition to automate attendance identification and recording, reducing reliance on manual attendance processes.
+
+### 🏅 Beyond the Code
+- 🥇 Academic Rank 1 across semesters; consistently among the top 3 performers.
+- 🏆 NMIT Hacks 2025 — MongoDB Category Winner.
+- 📄 Research publication — *Polyglot Assistant*, IJSET.
+
+### 🌐 Let's Connect!
+
+Always happy to connect with developers, researchers, and people building interesting things.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-## 🔬 Research & Innovation
-
-**Published Research — Polyglot Assistant**
-
-Co-authored a research paper exploring multilingual AI assistance through speech recognition, natural language processing, translation, and speech synthesis.
-
-**Published in:** International Journal of Science, Engineering and Technology (IJSET), Vol. 13, Issue 1, January 2025.
-
-**Areas of Interest**
-`Artificial Intelligence` · `Machine Learning` · `NLP` · `Generative AI` · `Intelligent Systems`
-
----
-
-## 🌐 Let's Connect
-
-Have an interesting project, research idea, or opportunity to collaborate? I'd love to connect!
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kiran-biradar-7a4007321/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:biradarkiran009@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
----
-
-<p align="center">
-<b>「 Curiosity drives innovation. Consistency builds expertise. 」</b>
-<br/>
-<i>Building today. Exploring what's next.</i>
-</p>
+*Curious by nature. Building by choice. Learning every day.* 🚀
