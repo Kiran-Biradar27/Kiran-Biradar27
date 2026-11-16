@@ -1,108 +1,122 @@
-# Hey there 👋, I'm Kiran S B!
+# 👋 Hey, I'm Kiran S B!
 
-### Software Engineer | Full-Stack Development | Data & AI | Machine Learning
+### `Software Engineer` · `Full-Stack Developer` · `AI/ML Enthusiast`
 
-I'm a Software Engineer passionate about building practical, technology-driven solutions across **Full-Stack Development, Data Engineering, and Artificial Intelligence**.
+**Building at the intersection of software, data, and intelligence.**
 
-With experience spanning software development, backend engineering, machine learning, and data analytics, I enjoy turning ideas into functional applications and exploring how intelligent technologies can solve real-world problems.
+I'm an Information Science and Engineering graduate with hands-on experience in building full-stack applications, developing AI-powered solutions, and working with data-driven systems.
 
-I'm particularly interested in **AI/ML, Generative AI, intelligent systems, and emerging technologies**, with a growing interest in research and innovation.
+I enjoy exploring how technology can solve meaningful problems — whether that's engineering an end-to-end application, experimenting with machine learning, or exploring new possibilities in intelligent systems.
 
----
+```java
+public class Kiran {
+    String[] interests = {
+        "Software Engineering",
+        "Full-Stack Development",
+        "Data & AI",
+        "Machine Learning",
+        "Research & Innovation"
+    };
 
-### 🚀 What I Do
-
-- 💻 **Software Development:** Building end-to-end applications and scalable web solutions using modern development technologies.
-- 🤖 **AI & Machine Learning:** Exploring machine learning, deep learning, computer vision, NLP, and Generative AI.
-- 📊 **Data & Analytics:** Working with data processing, SQL, data visualization, and analytical solutions.
-- 🔬 **Research & Innovation:** Exploring intelligent systems and emerging applications of AI.
-- 🤝 **Collaboration:** Interested in open-source contributions, meaningful projects, and learning alongside the developer community.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Programming Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Full-Stack Development & Frameworks**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-**Data, Databases & APIs**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white)
-
-**Artificial Intelligence & Machine Learning**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-00897B?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-3949AB?style=for-the-badge)
-
-**Data Visualization & Development Tools**
-
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+    String mindset = "Build. Learn. Experiment. Repeat.";
+}
+```
 
 ---
 
-### 🏆 Achievements & Recognition
+## ⚡ A Little About Me
 
-- 🥇 Consistently ranked among the **top 3 students** academically, securing Rank 1 across multiple semesters.
-- 🏆 Won the **MongoDB category at NMIT Hacks 2025**, competing among 2,000+ participants.
-- 📚 Co-authored and published **"Polyglot Assistant"** in the *International Journal of Science, Engineering and Technology (IJSET)*, January 2025.
-- 🎓 Recognized for strong academic performance and technical project evaluations.
-
----
-
-### 🔬 Research & Publications
-
-**Polyglot Assistant – A Multilingual AI Companion**
-
-Co-authored a research publication exploring multilingual AI assistance through speech recognition, natural language processing, translation, and text-to-speech technologies.
-
-**Publication:** International Journal of Science, Engineering and Technology (IJSET), Vol. 13, Issue 1, January 2025.
-
-**Research Interests:** Artificial Intelligence, Machine Learning, Natural Language Processing, Generative AI, and Intelligent Systems.
+- 💻 Building applications across the **MERN stack, Java, and Python ecosystem**.
+- 🤖 Exploring **Machine Learning, Generative AI, Computer Vision, and LLMs**.
+- 📊 Interested in **Data Engineering, analytics, and intelligent data-driven solutions**.
+- 🔬 Co-authored a research publication on multilingual AI assistance.
+- 🏆 Won the MongoDB category at **NMIT Hacks 2025**, competing among 2,000+ participants.
+- 🌱 Always learning, experimenting, and looking for opportunities to build something meaningful.
 
 ---
 
-### 🌐 Let's Connect!
+## 🧰 My Technical Playground
 
-I'm always interested in connecting with developers, researchers, and people working on interesting technology.
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-biradar-7a4007321/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kiran-Biradar27)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biradarkiran009@gmail.com)
+### Full-Stack & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,redux,tailwind" />
+</p>
+
+### Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
+</p>
+
+### AI, Machine Learning & Data
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+**Also exploring:** Generative AI · LLMs · RAG · LangChain · NLP · YOLO · Oracle Analytics Cloud · BI Publisher · Chart.js · D3.js · Three.js
+
+### Developer Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,githubactions" />
+</p>
 
 ---
 
-⭐ *Always learning, building, and exploring what's next in technology.*
+## 🚀 Things I've Built & Explored
+
+| Project | What it's about |
+|---|---|
+| **Serenity-Bot** | An AI-powered virtual wellness platform with conversational support and community features |
+| **Polyglot Assistant** | A multilingual AI companion integrating speech recognition, NLP, translation, and text-to-speech |
+| **AI Data Analytics Platform** | An end-to-end analytics platform featuring data ingestion, interactive dashboards, and intelligent insights |
+
+*Explore my repositories for more projects, experiments, and code.*
+
+---
+
+## 🏅 Milestones & Recognition
+
+- 🥇 **Academic Excellence:** Ranked among the top 3 students, securing Rank 1 across multiple semesters.
+- 🏆 **NMIT Hacks 2025:** Winner in the MongoDB category among 2,000+ participants.
+- 📄 **Research Publication:** Co-authored *Polyglot Assistant*, published in IJSET, January 2025.
+- 🎓 **Technical Excellence:** Strong performance in academic projects, research evaluations, and technical assessments.
+
+---
+
+## 🔬 Research & Innovation
+
+**Published Research — Polyglot Assistant**
+
+Co-authored a research paper exploring multilingual AI assistance through speech recognition, natural language processing, translation, and speech synthesis.
+
+**Published in:** International Journal of Science, Engineering and Technology (IJSET), Vol. 13, Issue 1, January 2025.
+
+**Areas of Interest**
+`Artificial Intelligence` · `Machine Learning` · `NLP` · `Generative AI` · `Intelligent Systems`
+
+---
+
+## 🌐 Let's Connect
+
+Have an interesting project, research idea, or opportunity to collaborate? I'd love to connect!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kiran-biradar-7a4007321/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:biradarkiran009@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<b>「 Curiosity drives innovation. Consistency builds expertise. 」</b>
+<br/>
+<i>Building today. Exploring what's next.</i>
+</p>
