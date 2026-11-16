@@ -89,7 +89,7 @@ A computer vision-based attendance solution exploring facial recognition and aut
 
 ### 🔬 Beyond Development
 
-Beyond writing code, I'm curious about ideas, creativity, and the impact technology can have on the world. I enjoy learning from different perspectives, exploring new possibilities, sharing knowledge, and constantly challenging myself to grow — both as a developer and as an individual.
+Beyond writing code, I'm curious about ideas, creativity, and the impact technology can have on the world. I enjoy learning from different perspectives, exploring new possibilities, sharing knowledge, and constantly challenging myself to grow  both as a developer and as an individual.
 
 ### 🌐 Let's Connect!
 
