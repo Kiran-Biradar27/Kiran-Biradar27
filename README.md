@@ -1,10 +1,10 @@
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=8B7CF6&center=true&vCenter=true&width=500&lines=Hello%2C+world!+%F0%9F%91%8B;Ideas+into+code%2C+curiosity+into+projects;Always+building%2C+always+learning+%E2%9C%A8)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=800&color=BA91F5&center=true&vCenter=true&width=650&lines=%E2%9C%A8+PLAYER+01%3A+KIRAN;%F0%9F%8E%AE+QUEST%3A+BUILD+SOMETHING+MEANINGFUL;%F0%9F%92%BB+STATUS%3A+ALWAYS+LEARNING;%F0%9F%9A%80+MISSION%3A+TURN+IDEAS+INTO+REALITY)](https://git.io/typing-svg)
 
-# 👋 Hey, I'm Kiran S B!
+<h1 align="center">👋 Hey, I'm Kiran S B!</h1>
 
-### Software Engineer · Full-Stack Developer · AI/ML Enthusiast
+<h3 align="center">Software Engineer · Full-Stack Developer · AI/ML Enthusiast</h3>
 
-*Building at the intersection of software, data, and intelligence.*
+<p align="center"><i>Building at the intersection of software, data, and intelligence.</i></p>
 
 I'm an Information Science & Engineering graduate passionate about creating impactful applications, exploring emerging technologies, and turning ideas into working solutions.
 
