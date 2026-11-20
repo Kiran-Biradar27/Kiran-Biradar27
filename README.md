@@ -115,15 +115,19 @@ A computer vision-based attendance solution exploring facial recognition and aut
 
 Beyond writing code, I'm curious about ideas, creativity, and the impact technology can have on the world. I enjoy learning from different perspectives, exploring new possibilities, sharing knowledge, and constantly challenging myself to grow — both as a developer and as an individual.
 
-### 💌 Let's Connect!
 
-*Always happy to connect with developers, researchers, and curious minds.*
+<h3 align="center">Let's Connect & Build Something Together ✨</h3>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kiran-biradar-7a4007321/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:biradarkiran009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <i>Curiosity sparks ideas. Code brings them to life.</i> ✨
+  <i>Open to interesting conversations, collaborations, and building impactful things with technology.</i>
 </p>
+
